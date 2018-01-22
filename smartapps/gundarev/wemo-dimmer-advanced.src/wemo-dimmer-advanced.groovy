@@ -25,6 +25,8 @@ definition(
     singleInstance: true,
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Partner/wemo.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Partner/wemo@2x.png"
+    
+    
 )
 
 
