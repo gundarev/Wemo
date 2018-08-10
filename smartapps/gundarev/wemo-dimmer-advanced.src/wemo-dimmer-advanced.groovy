@@ -10,16 +10,15 @@
  *  on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License
  *  for the specific language governing permissions and limitations under the License.
  *
- *  Wemo Service Manager
+ *  Wemo Dimmer Service Manager
  *
- *  Author: superuser-ule (fix)
- *  Date: 2016-02-06
- *  Last Update : 2016-02-24
+ *  Author: Denis Gundarev
+ *  
  */
 definition(
     name: "Wemo Dimmer Advanced",
     namespace: "gundarev",
-    author: "SmartThings,Ule",
+    author: "gundarev",
     description: "Allows you to integrate your WeMo Dimmer  with SmartThings.",
     category: "SmartThings Labs",
     singleInstance: true,
