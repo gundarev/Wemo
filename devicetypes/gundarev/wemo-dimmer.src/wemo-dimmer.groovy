@@ -1,5 +1,5 @@
 /**
- *  Copyright 2015 SmartThings
+ *  Copyright 2017 SmartThings
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -10,13 +10,13 @@
  *  on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License
  *  for the specific language governing permissions and limitations under the License.
  *
- * Wemo Dimmer
+ * Wemo Dimmer support for SmartThings
  *
- * Author: Juan Risso (SmartThings)
+ * Author: Denis Gundarev
  * Date: 2015-10-11
  */
  metadata {
- 	definition (name: "Wemo Dimmer", namespace: "gundarev", author: "SmartThings") {
+ 	definition (name: "Wemo Dimmer", namespace: "gundarev", author: "gundarev") {
         capability "Actuator"
         capability "Switch"
         capability "Polling"
